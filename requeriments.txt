@@ -1,0 +1,6 @@
+websocket-client
+requests
+colorama
+future
+numpy
+PySimpleGUI
